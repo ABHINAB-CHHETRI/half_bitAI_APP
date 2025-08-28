@@ -1,16 +1,30 @@
-# ai_model
+# Halfbit AI
 
-A new Flutter project.
+## Overview
+Halfbit AI is a lightweight Flutter app that enables natural, real-time AI chat fully **offline** on your device. It uses a compact, efficient model to generate AI responses instantly without requiring any internet connection. The app offers a clean and simple chat interface designed for smooth, local AI conversations anytime, anywhere.
+
+## Features
+- **Offline AI Chat:** Chat naturally with an AI model running entirely on your device.
+- **Instant Responses:** The app loads a small AI model file to generate replies quickly without network delay.
+- **Clean User Interface:** Simple and intuitive chat interface for seamless conversations.
+- **Privacy-Focused:** Since all AI processing occurs locally, user data never leaves the device.
+
+## Current Status
+- The current version is a proof of concept with basic AI chat functionality.
+- Some planned features are not yet implemented due to time constraints.
+
+## Planned Improvements
+- Integration of better and more powerful AI models for improved understanding and response quality.
+- Adding audio and video support to make conversations more interactive and multimodal.
+- Developing a Retrieval-Augmented Generation (RAG) system to enable smarter replies by leveraging local knowledge storage.
 
 ## Getting Started
+1. Clone this repository.
+2. Build and run the Flutter app on your preferred device.
+3. Start chatting with the AI offline immediately.
 
-This project is a starting point for a Flutter application.
+## Acknowledgments
+Thank you to the organizers of Samsung Innovatex for the opportunity to present this project.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Team
+Innovators from Thapar Institute of Engineering and Technology
